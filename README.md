@@ -1,5 +1,6 @@
-# Setup Inicial
+# Setup inicial
 
-### 1. Clonar o App
 
-`` git clone https://github.com/Thiago250801/vite-project.git``
+### Clonar o App
+
+`` git clone https://github.com/Thiago250801/vite-project.git ``

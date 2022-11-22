@@ -1,0 +1,22 @@
+.navbar{
+  background: rgb(230,29,95);
+  background: linear-gradient(90deg, rgba(230,29,95,1) 0%, rgba(207,29,253,1) 50%, rgba(18,20,205,1) 100%);
+
+  .navbar-brand{
+    color: white;
+
+  }
+  .navbar-brand:hover{
+    color: gainsboro;
+  }
+}
+i{
+  color: white;
+  cursor: pointer;
+}
+i:hover{
+  color: gainsboro;
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
